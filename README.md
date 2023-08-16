@@ -1,10 +1,18 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+#:memo::pencil: Projeto Docker Todo-List
+
+Este foi meu primeiro projeto do modulo de back-end da Trybe. Nele, “conteinerizei” as aplicações de frontend, backend e testes, criando uma conexão entre elas e orquestrando seu funcionamento!
+##
+
+# :sparkles:Principais stacks desenvolvidas::sparkles:
+:pushpin: O conhecimento dos comandos dockers no CLI - Interface de linha de comando;
+:pushpin: A habilidade de criar um contêiner Docker para uma aplicação de front-end;
+:pushpin: A habilidade de criar um contêiner Docker para uma aplicação de back-end;
+:pushpin: A habilidade de criar um contêiner Docker para uma aplicação de testes;
+:pushpin: A habilidade de orquestrar os três contêineres utilizando o Docker compose.
+
+ # :warning:ATENÇÃO 
+Os arquivo presentes na pasta front-end e back-end são de autoria da Trybe.
+### Contato: 
+<div align=""> <br> <a href = "mailto:contatopolianamarques@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/poliana-marques-56b8b118b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> 
