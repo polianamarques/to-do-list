@@ -1,6 +1,6 @@
 # :memo::pencil: Projeto Docker Todo-List
 
-Este foi meu primeiro projeto do modulo de back-end da Trybe. Nele, “conteinerizei” as aplicações de frontend, backend e testes, criando uma conexão entre elas e orquestrando seu funcionamento!
+Este foi meu primeiro projeto do módulo de back-end da Trybe. Nele, “conteinerizei” as aplicações de frontend, backend e testes, criando uma conexão entre elas e orquestrando seu funcionamento!
 ##
 
 # :sparkles:Principais stacks desenvolvidas::sparkles:
